@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/Language-React-000050)
+![Language](https://img.shields.io/badge/Language-React-blue)
 
 <b>Cryptoverse - Explore the World of Cryptocurrency</b>
 
